@@ -33,7 +33,7 @@ This repository contains solutions I've proposed for the problems from the "Andr
 ## Usage Instructions
 To run the code in the Kotlin Playground, follow these steps:
 
-1. Visit [Kotlin Playground](https://play.kotlinlang.org/).
+1. Visit the [Kotlin Playground](https://play.kotlinlang.org/).
 2. Copy the content of a code file from this repository (any .kt file that contains 'main()').
 3. In the Kotlin Playground, paste the code into the editor, replacing the default code.
 4. Press the "Run" button or use CTRL+F9 to execute the code and see the results.
