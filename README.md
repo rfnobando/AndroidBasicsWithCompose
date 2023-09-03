@@ -1,5 +1,4 @@
 # Aspectos básicos de Android con Compose 
-
 ¡Bienvenido al repositorio de soluciones que he propuesto para el curso "Aspectos básicos de Android con Compose"!
 
 
@@ -23,7 +22,6 @@ Si tienes preguntas o sugerencias, no dudes en contactarme en [rfnobando@gmail.c
 ---
 
 # Android Basics with Compose
-
 Welcome to the repository of solutions I've proposed for the "Android Basics with Compose" course!
 
 
